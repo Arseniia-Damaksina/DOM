@@ -30,9 +30,9 @@ for (let p of paragraphs) {
 // it has a class then leave it as it is.
 for (let p of paragraphs) {
   if (!p.className) {
-    let x = Math.floor(Math.random() * 255);
-    let y = Math.floor(Math.random() * 255);
-    let z = Math.floor(Math.random() * 255);
-    p.style.color = `rgb(${x}, ${y}, ${z})`;
+    let rgb = `${Math.floor(Math.random() * 255)}, ${Math.floor(
+      Math.random() * 255
+    )}, ${Math.floor(Math.random() * 255)}`;
+    p.style.color = `rgb(${rgb})`;
   }
 }
