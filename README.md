@@ -6,4 +6,4 @@
 3. Creating Nodes [Preview](http://htmlpreview.github.io/?https://github.com/Arseniia-Damaksina/DOM/blob/main/3.Creating/index.html)
 4. Navigate [Preview](http://htmlpreview.github.io/?https://github.com/Arseniia-Damaksina/DOM/blob/main/4.Navigate/index.html)
 5. Events [Preview](http://htmlpreview.github.io/?https://github.com/Arseniia-Damaksina/DOM/blob/main/5.Events/index.html)
-7. DOM-drill [Preview](http://htmlpreview.github.io/?https://github.com/Arseniia-Damaksina/DOM/blob/main/4.DOM-drill/index.html)
+7. DOM-drill [Preview](http://htmlpreview.github.io/?https://github.com/Arseniia-Damaksina/DOM/blob/main/7.DOM-drill/index.html)
